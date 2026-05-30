@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════ HEADER ══ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Vinothkumar%20P&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=20&descAlignY=60&descColor=c9d1d9" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Vinothkumar%20P&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Header"/>
 </div>
 <!-- ═══════════════════════════════════════════════════ TYPING SVG ══ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=750&height=52&lines=Hey+There!+I'm+Vinothkumar+P+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Deep+Learning+%F0%9F%A7%A0;Turning+Data+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=750&height=52&lines=Hey+There!+I'm+Vinothkumar+P;AI+%26+ML+Enthusiast;Data+Science+Intern" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -104,9 +104,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinoth044&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinoth044&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinoth044&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" width="68%"/>
+  <img src="https://streak-stats.demolab.com?user=vinoth044&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=70A5FD" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -122,7 +122,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinoth044&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinoth044&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -131,14 +131,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinoth044&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
@@ -172,8 +164,8 @@
 
 | 🔖 Project | 🧰 Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| 🛡️ **Complaint AI — Cyber Fraud Risk Monitoring** | Python · AI/ML · SHA-256 · Full-Stack · SQL | Full-stack cybercrime platform with AI fraud detection, SHA-256 evidence management, automated case assignment & real-time officer alerts |
-| 📚 **Student Performance Detection** | Python · Scikit-learn · Classification · Regression | Predicts student academic outcomes using ML; feature engineering + classification/regression models for early intervention |
+| 🛡️ **Complaint AI — Cyber Fraud Risk Monitoring** | Python · AI/ML · SHA-256 · Full-Stack · SQL | Full-stack cybercrime platform with AI fraud detection, SHA-256 evidence management, automated threat response |
+| 📚 **Student Performance Detection** | Python · Scikit-learn · Classification · Regression | Predicts student academic outcomes using ML; feature engineering + classification/regression models |
 
 </div>
 
