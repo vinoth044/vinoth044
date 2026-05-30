@@ -104,9 +104,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinoth044&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinoth044&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&icon_color=70a5fd" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48%"/>
 </div>
 
 ---
@@ -127,10 +126,13 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinoth044&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub Trophies"/>
+
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinoth044&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
