@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Vinothkumar%20P&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=20&descAlignY=60&descColor=c9d1d9" width="100%" alt="header banner"/>
 </div>
-
 <!-- ═══════════════════════════════════════════════════ TYPING SVG ══ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=750&height=52&lines=Hey+There!+I'm+Vinothkumar+P+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Deep+Learning+%F0%9F%A7%A0;Turning+Data+Into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -30,7 +29,7 @@
 <td width="55%" valign="top">
 
 ### 👤 Who Am I?
-
+> VINOTH KUMAR
 > 🎓 **B.E. Computer Science & Engineering** — CGPA: **7.85**
 > P.T.Lee Chengalvarya Naicker College of Engineering & Technology
 
