@@ -22,46 +22,50 @@
 
 ---
 
-## 🧑‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Vinothkumar;Full+Stack+Developer+%7C+DevOps+Engineer;Building+scalable+cloud+solutions;Let's+create+something+amazing+together)](https://github.com/vinothkumar2620)
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VINOTHKUMAR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=62&descSize=16" width="100%">
+</div>
 
-```python
-class VinothkumarP:
-    def __init__(self):
-        self.name         = "Vinothkumar P"
-        self.location     = "Ranipet, Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. Computer Science & Engineering (CGPA: 7.85)"
-        self.college      = "P.T.Lee Chengalvarya Naicker College of Engg & Tech"
-        self.email        = "vkvinothkumar004@gmail.com"
-
-        self.stack = [
-            "Python", "Java", "SQL",
-            "TensorFlow", "Keras", "PyTorch",
-            "Scikit-learn", "NumPy", "Pandas",
-            "NLP", "LLMs", "Generative AI",
-            "MySQL", "Tableau"
-        ]
-
-        self.currently_learning = [
-            "Advanced LLM Fine-tuning",
-            "MLOps & Model Deployment",
-            "Retrieval-Augmented Generation (RAG)",
-            "Deep Learning Architectures"
-        ]
-
-        self.fun_fact = "I automate everything I do more than twice 🤖"
-
-    def motto(self):
-        return "Build AI that makes a difference 🚀"
-
-me = VinothkumarP()
-print(me.motto())
-```
-
-<br clear="right"/>
+<h3 align="center">🚀 Crafting elegant solutions with code and DevOps magic</h3>
 
 ---
+
+## 👨‍💻 About Me
+
+```python
+class Vinothkumar:
+    def __init__(self):
+        self.name = "Vinothkumar"
+        self.location = "India"
+        self.role = "Full Stack Developer"
+        self.email = "vinothkumarr2620@gmail.com"
+        self.education = "Bachelor of Computer Science"
+        
+    def currently_learning(self):
+        return ["Advanced DevOps", "Kubernetes", "Microservices", "Cloud Architecture"]
+    
+    def tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "Java", "SQL"],
+            "frameworks": ["React", "Node.js", "Express", "Spring Boot"],
+            "cloud": ["AWS", "Docker", "Kubernetes", "GitHub Actions"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "tools": ["Git", "Jenkins", "Terraform", "Linux"]
+        }
+    
+    def fun_fact(self):
+        return "I debug code faster than my coffee gets cold ☕"
+    
+    def motto(self):
+        return "Code → Build → Deploy → Repeat 🔄"
+
+me = Vinothkumar()
+
+
+---
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
